@@ -67,6 +67,8 @@ header a img {
     background-color: gray;
     height: 400px;
     text-align: start;
+    margin: 10px;
+    border-radius: 5px;
     
 }
 
